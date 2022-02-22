@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true friend, or A bill of exchange expressed in a sermon preached at White-hall: vpon Sonday the XIII. of December, anno Domini, 1629. By Iohn Dovvle, Doctor of Divinitie, and his Maiesties chaplaine.</title>
+            <author>Dowle, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20717</idno>
+            <idno type="STC">STC 7101</idno>
+            <idno type="STC">ESTC S118447</idno>
+            <idno type="EEBO-CITATION">99853654</idno>
+            <idno type="PROQUEST">99853654</idno>
+            <idno type="VID">19047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1200:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true friend, or A bill of exchange expressed in a sermon preached at White-hall: vpon Sonday the XIII. of December, anno Domini, 1629. By Iohn Dovvle, Doctor of Divinitie, and his Maiesties chaplaine.</title>
+                  <author>Dowle, John.</author>
+               </titleStmt>
+               <extent>[6], 73, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. I[ones] for Nicholas Bourne, at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1630.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19047:1"/>
+            <pb facs="tcp:19047:1"/>
+            <p>THE TRVE FRIEND, <hi>Or,</hi> A BILL OF EXCHANGE, EXPRESSED IN A SER<g ref="char:EOLhyphen"/>MON PREACHED AT <hi>WHITE-HALL:</hi> Vpon Sonday the XIII. of December, <hi>Anno Domini,</hi> 1629. By IOHN DOVVLE, Doctor of Divinitie, and his Maieſties <hi>Chaplaine.</hi>
+            </p>
+            <q>
+               <bibl>Luke 11. 40, 41.</bibl>
+               <p>
+                  <hi>Date eleemoſynam, &amp; ecce omnia munda ſunt vobis.</hi>
+               </p>
+               <p>
+                  <hi>Give almes of ſuch things as you have, and beholde all things are cleane unto you.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. I.</hi> for <hi>Nicholas Bourne,</hi> at the South Entrance of the Royall Exchange. 1630.</p>
+            <pb facs="tcp:19047:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19047:2"/>
+            <head>
+               <hi>TO THE RIGHT HONOVRABLE, WIL<g ref="char:EOLhyphen"/>LIAM, Earle of</hi> Pembroke, <hi>Lord high Steward of his Majeſties Houſhold, and of his moſt Honoura<g ref="char:EOLhyphen"/>ble</hi> Privie Councell, Chancellour of <hi>the Vniverſitie of Oxford, Knight of the Noble Order of the Garter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough I can iuſt<g ref="char:EOLhyphen"/>ly challenge no in<g ref="char:EOLhyphen"/>tereſt in your Lord<g ref="char:EOLhyphen"/>ſhips favour; yet your Lordſhip may claime any fruit of my ſtudies as your due, eſpecially this Sermon,
+<pb facs="tcp:19047:3"/> which was at firſt conceived in that famous <g ref="char:V">Ʋ</g>niverſitie, whereof your Lordſhip hath for manie yeares beene the Honourable Chancellor, and now brought forth before that moſt Honorable Houſhold, of which your Honour is right worthily the high Steward. And beſides, that ſmall Inheritance which God of his goodneſſe hath given mee, for the preſervation of mee, and mine, I doe inioy under your Lordſhip, and am by that likewiſe obliged to doe your Honour and yours all faith<g ref="char:EOLhyphen"/>full ſervice.</p>
+            <p>God and men know, that both your Lordſhip, and your moſt No<g ref="char:EOLhyphen"/>ble Anceſtors have ſeverally acted that charitable part, which here I adviſe others to doe, ſo that this
+<pb facs="tcp:19047:3"/> diſcourſe of mine which ſhall be their direction, is <hi>Pembrokes</hi> Hi<g ref="char:EOLhyphen"/>ſtory; which being by you continued to the end, as you have begun, your Lordſhip in the end of your dayes ſhall receive the end of your hope, and of this diſcourſe, and be recei<g ref="char:EOLhyphen"/>ved into everlaſting habitations. Such ſhall ever bee the prayer of</p>
+            <closer>
+               <signed>Your Lordſhips moſt humbly devoted IOHN DOVVLE.</signed>
+            </closer>
+            <pb facs="tcp:19047:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:19047:4"/>
+            <epigraph>
+               <bibl>LVKE XVI. Chap. IX. Verſe.</bibl>
+               <q>Make you friends of the unrighte<g ref="char:EOLhyphen"/>ous Mammon, that when ye ſhall faile, they may receive you into everlaſting habitations.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Parable is of the <hi>uniuſt Steward,</hi> the Text is the con<g ref="char:EOLhyphen"/>cluſion of the Para<g ref="char:EOLhyphen"/>ble: in the winding up wherof our Saviour (bleſſed for ever) taught his Diſciples then, and doth us now, (although it be by an ill precedent) how wee
+<pb facs="tcp:19047:5"/> may all very well provide for Eternity. For the Steward, whe<g ref="char:EOLhyphen"/>ther he was Saint <hi>Paul</hi> before his converſion, as <hi>Theophilus,</hi> Biſhop of <hi>Antioch</hi> would haue him; or the Divell, abuſing thoſe great gifts hee had recei<g ref="char:EOLhyphen"/>ved from God, to others con<g ref="char:EOLhyphen"/>demnation, as <hi>Gaudentius</hi> thought; or the Iewes ſitting in the Tents of <hi>Shem,</hi> as <hi>Tertul<g ref="char:EOLhyphen"/>lian</hi> would make him: Whe<g ref="char:EOLhyphen"/>ther he be only the <hi>Rich-ma<g ref="char:cmbAbbrStroke">̄</g>,</hi> or only the <hi>States-ma<g ref="char:cmbAbbrStroke">̄</g>,</hi> or only the <hi>Church-man,</hi> or rather <hi>Every man</hi> to whom any charge is com<g ref="char:EOLhyphen"/>mitted by God, (as the Do<g ref="char:EOLhyphen"/>ctors have ſeverally given their opinions) I liſt not here to diſ<g ref="char:EOLhyphen"/>pute, as deeming it not much
+<pb n="3" facs="tcp:19047:5"/> to our preſent purpoſe, to know what he was; ſure I am he was bad enough, and yet not ſo bad neither, but that our Savi<g ref="char:EOLhyphen"/>our picks good out of him; and by his care for the world, doth as it were chalke us out a way to eternall happineſſe. 'Tis true, what ever hee was, a filthy dunghill he was, full of cor<g ref="char:EOLhyphen"/>ruption; and yet Chriſt that juſt One ſcrapes a pearle out of him; a toad hee was, full of poyſon, and yet the great Phy<g ref="char:EOLhyphen"/>ſitian drawes a precious ſtone out of his head: For although his heart be not right either to<g ref="char:EOLhyphen"/>wards God, or Man, yet his braine ſerves his owne turne well enough; for, (if you marke
+<pb n="4" facs="tcp:19047:6"/> him) though hee hath neither armes to digge, nor a face to begge, yet he hath no will to want neither; live he muſt, and if it may be no other way, it ſhall be by his wit; and for this is hee commended in the Goſ<g ref="char:EOLhyphen"/>pell, <hi>Quia prudentèr agit, non quia fraudulentèr,</hi> ſithence he would live diſhoneſtly, yet he would carry it cleanely, handſomely; and thus hee will doe it: The debtor that oweth his Maſter an hundred meaſures of oyle, ſhall take his bill, and ſit down quickly, and write fifty; and hee that oweth an hundred meaſures of wheate, ſhall write downe but foureſcore, and this he will doe, verſe 4, that when
+<pb n="5" facs="tcp:19047:6"/> hee hath loſt his office, and is caſt out of his Maſters doores, <hi>Recipiant,</hi> They may receive him into their houſes; So I ſay unto you, ſaith our Saviour, <hi>Make you friends,</hi> Learne of him.</p>
+            <p>Had it beene, <hi>Diſcite à me, Matth.</hi> 11. 29. <hi>Learne of mee,</hi> it had beene an admirable prece<g ref="char:EOLhyphen"/>dent; nay had it beene but, <hi>Goe to the Piſmire, Prov.</hi> 6. 6. I ſhould never have marveiled, for ſhe would teach us honeſt providence; or had it beene, <hi>Inſpicite in volatilia caeli, Mat.</hi> 6. 26. <hi>Looke upon the fowles of hea<g ref="char:EOLhyphen"/>ven, for they know their ſeaſons:</hi> or, <hi>Obſervate lilia agri, ver.</hi> 28. <hi>Learne of the lilies of the field,</hi> it
+<pb n="6" facs="tcp:19047:7"/> had not beene ſtrange neither, for they would teach us confi<g ref="char:EOLhyphen"/>dence; but learne of him? Can there come any thing that good is from one ſo evill as he? any thing worthy a childe of God, from a ſonne of <hi>Belial?</hi> a<g ref="char:EOLhyphen"/>ny thing beſeeming a religious imitation, from a man of this world? Yes, for I tel you, he, and ſuch as hee, are in their genera<g ref="char:EOLhyphen"/>tion wiſer than the children of light; therefore I ſay unto you, Learne of him. <hi>What to doe? To make you friends. How? Of the unrighteous Mammon. Why? That when you ſhall faile, they may re<g ref="char:EOLhyphen"/>ceive you into everlaſting habita<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>The Text then, you ſee, is <hi>a</hi>
+               <pb n="7" facs="tcp:19047:7"/> 
+               <hi>Bill of Exchange,</hi> ſent from one Country to another, an ex<g ref="char:EOLhyphen"/>change of earthly riches which we poſſeſſe here, for heavenly friends which wee make us hereafter; one whereof ſhall be better to us at the laſt, than all our pelfe: for when our bodies ſhall fall to duſt from whence they came, theſe ſhall carry up our ſoules into <hi>Abrahams</hi> bo<g ref="char:EOLhyphen"/>ſome: or to keepe the words of my text, <hi>That when we ſhall faile, they may receive us into everlaſt<g ref="char:EOLhyphen"/>ing habitations.</hi>
+            </p>
+            <p>The firſt word in my text is <hi>Quid,</hi> what you muſt doe; and that hath counſell full of Chri<g ref="char:EOLhyphen"/>ſtian policy, <hi>Facite vobis amicos,</hi>
+               <pb n="8" facs="tcp:19047:8"/> 
+               <hi>Make you friends:</hi> the ſecond is the <hi>Cuius,</hi> or the matter where<g ref="char:EOLhyphen"/>of, <hi>De Mammona iniquitatis, Of the unrighteous Mammon:</hi> the third is the <hi>Cui bono,</hi> to what end all this? <hi>That when you ſhall faile, they may receive you into e<g ref="char:EOLhyphen"/>verlaſting habitations.</hi>
+            </p>
+            <p>So that what Saint <hi>Paul</hi> made the <hi>law</hi> to his <hi>Galatians,</hi> that Chriſt Ieſus hath made this <note place="margin">Gal. 3. 24.</note> ſteward to us, a Schoolemaſter to bring us to God: <hi>Make yee friends.</hi> In briefe, the Steward taketh care before hand for hereafter, that when hee hath loſt his office, and is caſt out of his Maſters houſe, he may be received into other mens: ſo I ſay unto you, Learne of him, doe
+<pb n="9" facs="tcp:19047:8"/> you provide whileſt you may, that when, your houſes of clay, your bodies ſhall crumble, and fall to duſt, from whence they came, your ſoules may be recei<g ref="char:EOLhyphen"/>ved into everlaſting habitati<g ref="char:EOLhyphen"/>ons. Firſt,</p>
+            <q>
+               <lg>
+                  <l>Facite vobis amicos,</l>
+               </lg>
+               <lg>
+                  <l>Make you friends.</l>
+               </lg>
+            </q>
+            <p>And that I thinke is good counſell at anie time, I am ſure it is that which you Courtiers beſtow moſt of your time a<g ref="char:EOLhyphen"/>bout, but if ever this advice of our Saviours were more ſeaſo<g ref="char:EOLhyphen"/>nable the<g ref="char:cmbAbbrStroke">̄</g> other, queſtionles it is now, whe<g ref="char:cmbAbbrStroke">̄</g> charitie is growne ſo colde, that it is even as hard to finde true friends, as true faith on earth, becauſe we are they,
+<pb n="10" facs="tcp:19047:9"/> 
+               <hi>on whom the end of the world is come,</hi> 2 <hi>Tim.</hi> 3. 2. in which ſaith Saint <hi>Paul, Men ſhall be lovers of their owne ſelves;</hi> therefore, <hi>Fa<g ref="char:EOLhyphen"/>cite vobis amicos, Make you friends.</hi>
+            </p>
+            <p>Now, if ever <hi>Davids Salvum</hi> 
+               <note place="margin">Pſal. 12. 1.</note> 
+               <hi>me fac, Helpe Lord, helpe,</hi> may be ſung moſt ſeaſonablie, For there is ſcarce one godlie man left, the faithfull are all miniſh<g ref="char:EOLhyphen"/>ed from among the children of men, they talke of vanitie e<g ref="char:EOLhyphen"/>verie one with his neighbour; <note place="margin">Verſe 2.</note> they flatter with their lippes, and diſſemble with their dou<g ref="char:EOLhyphen"/>ble heart, ſaith the Tranſlation, but that is very ſhort; <hi>Leu veleu</hi> is the originall, they diſſemble with a heart and a heart; as if
+<pb n="11" facs="tcp:19047:9"/> now men had two hearts, one in their bodies to treaſure up their meanings for themſelves, and another in their tongues, to deceive others: &amp; therefore I ſay unto you, <hi>Make you friends.</hi>
+            </p>
+            <p>I am ſure you have Enemies enough, you ſhould make you friends. The Divell firſt, hee is your grand Enemie, and you are oftentimes, <hi>quaſi in faucibus,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, even in the jawes of that roaring Lion, which goeth about ſeeking ſtil whom he may devoure; then <hi>Make you friends.</hi> He is the Prince of this world, able enough to doe you miſchiefe, yea and Legion too, &amp; manie waies he hath to undermine, to overthrow you:
+<pb n="12" facs="tcp:19047:10"/> therefore I ſay, <hi>Make you friends.</hi>
+            </p>
+            <p>Then your fleſh which you beare about you, and ſo pam<g ref="char:EOLhyphen"/>per everie day, as if ſhee were one of your beſt friends, is your cloſe Enemie too, take heede of her; nay there's a trai<g ref="char:EOLhyphen"/>tour at home, your owne <hi>heart,</hi> like a ſnake in thy boſome, <hi>is deceitfull above all things, and de<g ref="char:EOLhyphen"/>ſperately wicked, who can know it?</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 17. 9.</note> 
+               <hi>Jer.</hi> 17. 9. And therefore, <hi>Make you friends.</hi>
+            </p>
+            <p>Againe, <hi>If ye love me,</hi> ſaith <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 15. 19</note> our Saviour, <hi>and if yee love one another, the world will hate you</hi> too; Then <hi>make you friends.</hi>
+            </p>
+            <p>Nay there are whole armies of pettie Enemies, which ſerve under theſe grand ones, but I
+<pb n="13" facs="tcp:19047:10"/> cannot ſtand to muſter them up now; you know them your ſelves, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Look about you, <note place="margin">Heb. 3. 12</note> beware of them; <hi>Make you friends.</hi>
+            </p>
+            <p>
+               <hi>When a mans waies pleaſe the Lord, he maketh even his Enemies to become his friends, Prov.</hi> 16. 7. <note place="margin">Prov. 16. 7</note> And certainlie as it is a great argument of Gods favour, ſo it is an high point of Chriſtian policie, for a man to make his enemies to become his friends. Surelie your riches, if they be the riches of unrighteouſneſſe, (as for the moſt part they are) they are your foes: For it is ve<g ref="char:EOLhyphen"/>rie hard, ſaith our Saviour, for a man that is laden with them, to enter into the Kingdome of
+<pb n="14" facs="tcp:19047:11"/> God. Oh therefore (my deare brethren) I ſay unto you, now be wiſe, even when you may: Make you friends of the un<g ref="char:EOLhyphen"/>righteous Mammon, that your enemies, even they which of themſelves would preſſe you downe into that bottomleſſe pit, may be by you ſo well im<g ref="char:EOLhyphen"/>ployed now, that they may hereafter receive you into ever<g ref="char:EOLhyphen"/>laſting habitations. <hi>Facite vo<g ref="char:EOLhyphen"/>bis amicos, Make you friends.</hi>
+            </p>
+            <p>You ſay verie well, it is ve<g ref="char:EOLhyphen"/>ry good counſel that you give, &amp; we are willing to follow it; but who are thoſe friends you ſo commend unto us?</p>
+            <p>Theſe friends of ours, ſaith one, <hi>are the comfortable thoughts</hi> 
+               <note place="margin">Theophylact in loc.</note>
+               <pb n="15" facs="tcp:19047:11"/> 
+               <hi>which ſhall be in our mindes, at the houre of death, for the right beſtowing of the riches which God had lent us here; Vt quando pu<g ref="char:EOLhyphen"/>ſillo animo ſimus,</hi> When wee ſhould with the terror of death be amazed, or, as the word is in the Text, <hi>Quum defecerimus,</hi> when our bodies are even now falling to the earth fro<g ref="char:cmbAbbrStroke">̄</g> whence they came, theſe good and hap<g ref="char:EOLhyphen"/>pie thoughts of ours, as our beſt friends, may waite upon our ſoules into their everlaſting habitations. To this end, Saint <hi>Chryſoſtome</hi> in one of his Homi<g ref="char:EOLhyphen"/>lies excellentlie compares <hi>well-doing</hi> 
+               <note place="margin">
+                  <hi>Hom.</hi> 7. <hi>de paenitens.</hi>
+               </note> here, to <hi>Noahs Dove,</hi> in <hi>Gen.</hi> 8. 11. Shee goes forth from <note place="margin">Gen. 8. 11.</note> 
+               <hi>Noah</hi> whileſt the waters are
+<pb n="16" facs="tcp:19047:12"/> on the face of the whole earth; but <hi>in the Evening</hi> ſhe returnes, <hi>and loe an Olive leafe in her mouth: Even ſo,</hi> ſaith hee, <hi>while a man lives here, he is tumbled and toſſed in the Sea of this world,</hi> veluti dolorum diluvio circundatum, <hi>even ready to be ſwallowed up; but yet in the end of his dayes, at his death, his well-doing, his innocen<g ref="char:EOLhyphen"/>cy,</hi> inſtar columbae, <hi>like an harm<g ref="char:EOLhyphen"/>leſse dove, commeth home to him with an Olive branch in her mouth, bringing the peace of God, and the peace of a good conſcience, cheering up his drooping ſoule, with ſome ſuch friendly and comfortable thought as this, Thou haſt kept thine Innocency, and taken heed to the thing that was right; and I</hi>
+               <pb n="17" facs="tcp:19047:12"/> 
+               <hi>have brought thee peace at the</hi> 
+               <note place="margin">Pſa 37. 38</note> 
+               <hi>laſt.</hi>
+            </p>
+            <p>Saint <hi>Ambroſe</hi> makes the <note place="margin">
+                  <hi>Lib.</hi> 7. <hi>in Luc. cap. ult tom.</hi> 5.</note> friends that are here commen<g ref="char:EOLhyphen"/>ded unto us, to be the <hi>holy An<g ref="char:EOLhyphen"/>gels of God in Heaven; for thoſe we make our friends too,</hi> (ſaith he) <hi>when out of the bowells of compaſ<g ref="char:EOLunhyphen"/>ſion, we beſtow any thing to relieve the neceſsitie of our poore brethren here belowe.</hi>
+            </p>
+            <p>Saint <hi>Auguſtine</hi> will have <note place="margin">
+                  <hi>De Verb. Dom. Ser.</hi> 14.</note> theſe friends of ours to be <hi>San<g ref="char:EOLhyphen"/>cti Dei, the Saints of God, who are made our friends likewiſe by works of mercie towards our brethren:</hi> The Saints here, and the Saints above: the Saints here wee make our friends, when <hi>they, ſeeing our good workes, doe glorifie</hi> 
+               <note place="margin">Mat. 5. 16.</note>
+               <pb n="18" facs="tcp:19047:13"/> 
+               <hi>our Father which is in heaven;</hi> when they are led on by our good example, to doe good to others: and the Saints above likewiſe, who by the good they did here, have already ea<g ref="char:EOLhyphen"/>ſed themſelves of that heavie burthen, which might have preſſed them downwards and <hi>velut pennati,</hi> with the ſilver wings of faith and devotion, are gone up to heaven, where they expect, and deſire us, the members of the Church mili<g ref="char:EOLhyphen"/>tant, to dwell with them in e<g ref="char:EOLhyphen"/>verlaſting habitations.</p>
+            <p>Laſtlie, <hi>Amici,</hi> the friends ſpo<g ref="char:EOLhyphen"/>ken of here in the Text, are, ſaith <hi>Haymo, Pauperes, the poore on earth, quos Deus permiſit egere,</hi>
+               <pb n="19" facs="tcp:19047:13"/> 
+               <hi>ad illorum purgationem, et noſtram probationem; Whom almighty God hath ſuffered to be in want here, for the trial of their patience, and the exerciſe of our charitie:</hi> And this way indeed runnes the ſtreame of the moderne Interpreters But me thinks, without wrong to anie, wee may be bolde to joyne all theſe together; (and ſhold we leave out any of theſe, wee might peradventure miſſe our beſt friends when wee have moſt neede of them:) and certainlie by workes of mercie, by deedes of charitie to the poore, we indeare them all un<g ref="char:EOLhyphen"/>to us, wee make them all our friends; our owne Thoughts become friendlie unto us; the
+<pb n="20" facs="tcp:19047:14"/> holie Angels in heaven, the bleſſed Saints of God, the prai<g ref="char:EOLhyphen"/>ers of the poore on earth; and, which is more than all the reſt, wee make God himſelfe our friend too; for <hi>He that giveth unto the poore, lendeth unto the Lord, and looke what hee layeth out, it ſhall bee paid him againe</hi> 
+               <note place="margin">Pro. 19 17</note> 
+               <hi>Prov.</hi> 19 17. <hi>Lay up therefore thine almes in the boſome of the poore, and hee ſhall pray for thee,</hi> 
+               <note place="margin">Eccleſiaſt. 29. 15.</note> 
+               <hi>Eccleſiaſt.</hi> 29. But that's Apo<g ref="char:EOLhyphen"/>crypha: Is it ſo? then, <hi>Bleſſed be the man that provideth for the ſicke and needie, the Lord ſhall de<g ref="char:EOLhyphen"/>liver him in the time of trouble:</hi> I <note place="margin">Pſal 41. 1</note> am ſure that's no Apocrypha; that is <hi>Pſal</hi> 41. verſe 1.</p>
+            <p>The ordinarie Expoſition of
+<pb n="21" facs="tcp:19047:14"/> 
+               <hi>Facite vobis amicos, Make you friends,</hi> is, <hi>Date eleemoſynam, Give almes: And indeede,</hi> ſaith one, <hi>Chriſt Jeſus would inſinuate</hi> 
+               <note place="margin">Lyra in loc.</note> 
+               <hi>nothing elſe here, but that wee ſhould give part of our goods to the poore. Date eleemoſynam,</hi> ſaith our Saviour, <hi>et ecce omnia mun<g ref="char:EOLhyphen"/>da</hi> 
+               <note place="margin">Luk. 11. 41</note> 
+               <hi>ſunt vobis; Give almes of ſuch things as you have, and behold all things are cleane unto you. Date e<g ref="char:EOLhyphen"/>leemoſynam, Give almes?</hi> Why? that doctrine, aſwell as the pra<g ref="char:EOLhyphen"/>ctiſe of it, is almoſt forgotten; the divinitie of juſtification by faith alone, miſunderſtood by the people, like one of <hi>Pharaohs</hi> leane kine, hath cleane devou<g ref="char:EOLhyphen"/>red this fat one: For who is he? and where is hee? (to our
+<pb n="22" facs="tcp:19047:15"/> everlaſting ſhame be it ſpoken) that ſo often taketh care to fill the emptie bellie of a poore Brother, as he makes prepara<g ref="char:EOLhyphen"/>tion to feaſt his rich Neigh<g ref="char:EOLhyphen"/>bour? No: Hoſpitality the Mo<g ref="char:EOLunhyphen"/>ther, and Almes-giving the Daughter, left the world both together; Now there is no plague to that of giving, nor a<g ref="char:EOLhyphen"/>ny follie comparable to that of charity. But I ſay unto you, if you will be happie in heaven hereafter, Make ye friends here below, give almes, learne of the children of this world; doe not they give an hundred for a time, that they may gaine ten; and wilt not thou lend one, that thou maiſt gaine a thou<g ref="char:EOLhyphen"/>ſand?
+<pb n="23" facs="tcp:19047:15"/> 
+               <hi>Let my counſell,</hi> ſaith <hi>Da<g ref="char:EOLhyphen"/>niel</hi> 
+               <note place="margin">Dan. 4. 27.</note> 
+               <hi>to the King of Babylon, be ac<g ref="char:EOLhyphen"/>ceptable unto thee, breake off thy ſinnes by righteouſneſſe, and thine iniquities by ſhewing mercie to the poore:</hi> and it is agreeable with that of Chriſt, <hi>Sell that yee have, and give almes, provide your ſelves</hi> 
+               <note place="margin">Luk. 12. 33</note> 
+               <hi>bagges which waxe not olde, and a treaſure, which</hi> (when you faile on earth,) <hi>ſhall never faile you in heaven above.</hi>
+            </p>
+            <p>Well, the truth is, I could be contented to be more charita<g ref="char:EOLhyphen"/>ble then I am, and to give more almes then I doe, but that I ſee my charity many times abuſed, and my pennie that I give with a good meaning, miſimploied; I pray you therefore, How ſhall
+<pb n="24" facs="tcp:19047:16"/> I give almes, and to whom? The Wiſeman hath given thee admirable direction for this dutie in few words, <hi>Mitte pa<g ref="char:EOLhyphen"/>nem</hi> 
+               <note place="margin">Eccleſ. 11. 1</note> 
+               <hi>tuum ſuper aquas tranſeun<g ref="char:EOLhyphen"/>tes, &amp;c. Caſt thy bread upon the waters, and after many dayes thou ſhalt finde it:</hi> Marke it well, for every word beareth his weight. <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, it is not <hi>Da,</hi> but <hi>Mitte;</hi> not <hi>Da,</hi> a thing utterlie given a<g ref="char:EOLhyphen"/>way, but <hi>Mitte,</hi> a thing ſent a<g ref="char:EOLhyphen"/>broad, like an adventure at Sea, which ſhall another day returne to thee againe with great advantage. <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondlie, when thou giveſt, it muſt be <hi>Panis, Bread,</hi> ſaith <hi>Salomon,</hi> not a ſtone; when thy brother askes, thou ſhouldeſt give him
+<pb n="25" facs="tcp:19047:16"/> an <hi>almes</hi> to fill his bellie, not a <hi>reproach</hi> to breake his heart. <hi>My Sonne, make not an hungry ſoule ſorrowfull, neither vexe a man in his neceſsitie, take heede thou trou<g ref="char:EOLhyphen"/>ble not the heart of him that is</hi> 
+               <note place="margin">Eccleſiaſt. 4. 2, 3.</note> 
+               <hi>grieved already, Eccleſiaſt.</hi> 4. 2, 3. <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, when thou giveſt bread, it muſt be <hi>De pane tuo, of thine owne bread; Caſt thy bread upon the waters,</hi> and <hi>Break to the hungrie of thine owne bread, and bring the poore that wanders home to thine owne houſe, Eſay</hi> 58. 7. <note place="margin">Eſay 58. 7.</note> Thou muſt not undoe an hun<g ref="char:EOLhyphen"/>dred men, their wives and children, by briberie, uſurie, or extortion, and then build a poore Hoſpitall to keepe ſeven. <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, <hi>Caſt thy bread ſuper a<g ref="char:EOLhyphen"/>quas</hi>
+               <pb n="26" facs="tcp:19047:17"/> 
+               <hi>tranſeuntes, upon the waters that paſſe by;</hi> that is in the next verſe; <hi>Give thy portion to ſeven, and to eight,</hi> that is, to manie; <hi>For as the tree falls, ſo it lyes, if to</hi> 
+               <note place="margin">Verſe 3.</note> 
+               <hi>the North, then to the North;</hi> If thine heart (when thou giveſt an almes) points towards cha<g ref="char:EOLhyphen"/>ritie, however the beggar im<g ref="char:EOLhyphen"/>ploy thy pennie, ſurelie thou ſhalt not loſe thy reward: <hi>Super aquas tranſeuntes, <g ref="char:V">Ʋ</g>pon the wa<g ref="char:EOLhyphen"/>ters that paſſe by; Ne ſcrutare pau<g ref="char:EOLhyphen"/>pere<g ref="char:cmbAbbrStroke">̄</g>,</hi> ſay not thou in thine heart, indeede this beggar is to be re<g ref="char:EOLhyphen"/>lieved, but that other is not; for in the forme of a ſtranger thou maiſt receive an Angel, and in the habit of a beggar, beſtow ſomewhat on that
+<pb n="27" facs="tcp:19047:17"/> God, who gave thee All. And ſo I have done with the firſt word of the Text, the <hi>Quid,</hi> What Chriſt would have you doe, which was, <hi>Make you friends:</hi> And now we are come to the ſecond, and that is the <hi>Cuius,</hi> or the Matter whereof they are to be made, and that is,</p>
+            <q>
+               <lg>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> De Mammona iniquitatis,</l>
+               </lg>
+               <lg>
+                  <l>Of your unrighteous Mammon.</l>
+               </lg>
+            </q>
+            <q>Make you friends of your unrigh<g ref="char:EOLhyphen"/>teous Mammon.</q>
+            <p>
+               <hi>Mammon</hi> in the <hi>Syrian</hi> lan<g ref="char:EOLhyphen"/>guage, ſaith Saint <hi>Jerome,</hi> is the ſame that <hi>Riches</hi> are in ours; and riches are called <hi>unrighte<g ref="char:EOLhyphen"/>ous</hi> for manie reaſons; whereof theſe are ſome of the chiefeſt:</p>
+            <pb n="28" facs="tcp:19047:18"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, becauſe, <hi>When wee once have them, wee doe,</hi> ſaith <hi>Theo<g ref="char:EOLhyphen"/>phylact, uniuſtly make our ſelves Lords of that, whereof in truth we are but Stewards:</hi> Every one of us (if once growne rich) being apt enough to crie out with that clowniſh lonne of <hi>Mam<g ref="char:EOLhyphen"/>mon</hi> in the 12 of this Goſpell, <note place="margin">Luk 12. 17</note> 
+               <hi>Omnia mea,</hi> (at verſe 17) <hi>All's mine owne;</hi> without ſo much as caſting an eye upon the miſe<g ref="char:EOLhyphen"/>rie of our poore brethren, for whoſe ſakes, it may be, his barnes were the fuller; nay in<g ref="char:EOLhyphen"/>deede, whoſe owne, the ſuper<g ref="char:EOLhyphen"/>fluitie of all we poſſeſſe, is.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Or they are the <hi>riches of unrigh<g ref="char:EOLhyphen"/>teouſnes,</hi> ſaith Saint <hi>Ambroſe, be<g ref="char:EOLhyphen"/>cauſe they make us more unrighte<g ref="char:EOLhyphen"/>ous</hi>
+               <pb n="29" facs="tcp:19047:18"/> 
+               <hi>than otherwiſe wee would be, ſtill tempting us to Covetouſneſſe, and the more we have of them, the more ſtill doe we deſire.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Or they be called the riches of iniquitie, becauſe they are ſo unjuſtlie gotten by us, or our predeceſſours. <hi>Aut iniquus, aut iniqui haeres?</hi> The world (in the proverbe) accounting that Sonne happie, whoſe Father went to the Divell, to make him rich.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Or they be the riches of iniqui<g ref="char:EOLhyphen"/>tie, becauſe they are ſo unjuſt<g ref="char:EOLhyphen"/>lie divided amongſt the ſonnes of men, ſome having too much for their exceſſe and riot others nothing at all.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Or they be the riches of un<g ref="char:EOLhyphen"/>righteouſnes,
+<pb n="30" facs="tcp:19047:19"/> becauſe, although ſome few men may come juſt lie by them, yet (as anon you ſhall heare) it is too hard for a<g ref="char:EOLhyphen"/>nie (the beſt man) to ſay, hee will not put his truſt in them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> But laſtly, Saint <hi>Auguſtine</hi> go<g ref="char:EOLhyphen"/>eth fartheſt of all in this point, who tells us, that <hi>to ſpeake tru<g ref="char:EOLhyphen"/>ly, all riches are the riches of ini<g ref="char:EOLhyphen"/>quitie, becauſe they deale uniuſtly with us in every point; for wee get them with labour, keepe them with feare, and loſe them with griefe; ſo that to ſpeake truly,</hi> ſaith he, <hi>all riches are the riches of iniquitie, unleſſe they be thoſe uneſtimable riches of grace here, and of glorie hereafter.</hi>
+            </p>
+            <p>And doubtleſſe it was (as
+<pb n="31" facs="tcp:19047:19"/> the Diſciples called it) an hard ſaying of our Saviours in the Goſpell, that it was <hi>as eaſie for a Camell to goe through the eye of a needle, as for a rich man to en<g ref="char:EOLhyphen"/>ter into the Kingdome Heaven;</hi> and yet ſo it is, becauſe, <hi>In eis conſtituunt ſpem, atque coptam ſuae beatitudinis,</hi> When men are growne rich, they thinke of no other happineſſe at all, but ſay in their hearts, Tuſh, wee ſhall never doe amiſſe Will you ſee how this conceit tranſports a good man, a Saint, a man after Gods owne heart, King <hi>David</hi> himſelfe is carried away with this conſideration; <hi>Ego dixi, I ſaid, Non movebor in aeternum, I ſhall never be moved;</hi> but marke
+<pb n="32" facs="tcp:19047:20"/> when it was that he ſaid ſo, <hi>In abundantiâ meâ, I ſaid in my pro<g ref="char:EOLhyphen"/>ſperity I ſhall never be mooved, Pſal.</hi> 30. 7. Moſt excellentlie <note place="margin">Pſal. 30. 7.</note> therefore doth our Leiturgie teach us to pray, <hi>In all time of our wealth, in the houre of death, and in the day of Judgement, good Lord deliver us.</hi> In our wealth a man would think there were not ſo much neede of prayer, but <hi>Call upon mee in the time of trouble:</hi> O yes, in our wealth ſpeciallie are wee to pray to God, that we be not puffed up, <hi>In all time of our wealth, good Lord deliver us.</hi> When men are underpropt (as it were) with wealth, they thinke heaven and earth ſhall ſooner periſh,
+<pb n="33" facs="tcp:19047:20"/> than they want anie thing. And if good men bee manie times ſo carried away, it is no marvell to heare the Foole in the 12. of this Goſpell, thus cheering up himſelfe, with <hi>Eate, drinke, be merrie, and live</hi> 
+               <note place="margin">Luke 12. 20.</note> 
+               <hi>at eaſe.</hi> Why ſo? <hi>Thou haſt enough laid up in ſtore for many yeares.</hi>
+            </p>
+            <p>Riches, unrighteous riches, are deceivable, and draw away the mindes of the beſt, ſince man is apt to ſay to his golde, Thou art my hope, and to his wedge, In thee is my confi<g ref="char:EOLhyphen"/>dence; But what is this, ſaith holie <hi>Job,</hi> than by ſetting up a god below, to <hi>denie that God</hi> 
+               <note place="margin">Iob 31. 28.</note> 
+               <hi>who is above?</hi> Admirable there<g ref="char:EOLhyphen"/>fore is the counſell of King <hi>Da<g ref="char:EOLhyphen"/>vid,</hi>
+               <pb n="34" facs="tcp:19047:21"/> 
+               <hi>Pſal.</hi> 62. 10. <hi>Truſt not in oppreſsion, and if Riches increaſe, ſet not your hearts upon them.</hi> And verie agreeable is it with this advice of our Saviours here, <hi>Make ye friends of your unrighte<g ref="char:EOLhyphen"/>ous Mammon.</hi>
+            </p>
+            <p>Well, the counſell is good that you give, but how muſt I doe it?</p>
+            <p>In briefe, Thou muſt firſt competentlie provide for thine owne; <hi>Hee that provideth not for his owne,</hi> and namelie, for them of his familie, <hi>is</hi> (ſaith Saint <hi>Paul) worſe than an Infidel,</hi> and he hath <hi>denied the faith.</hi> Then give <hi>almes</hi> to thy poore Bre<g ref="char:EOLhyphen"/>thren, not onelie of thy ſuper<g ref="char:EOLhyphen"/>fluitie, but even borrowing
+<pb n="35" facs="tcp:19047:21"/> ſomewhat of thy neceſſitie; vi<g ref="char:EOLhyphen"/>ſite the fatherles and the wid<g ref="char:EOLhyphen"/>dowes in their adverſitie, cloathe the naked, give meate to the hungrie, drinke to the thirſtie, comfort the ſicke, har<g ref="char:EOLhyphen"/>bour the harbourleſſe, do good to all, ſpeciallie to thoſe that are of the houſhold of faith.</p>
+            <p>There are ſome, ſaith <hi>Hay<g ref="char:EOLhyphen"/>mo,</hi> who fouly miſtaking the meaning of this Text, thinke they are here by our Saviour Chriſt adviſed onely to give almes of that part of their ſub<g ref="char:EOLhyphen"/>ſtance, which they know they have unjuſtlie gotten; and this, thinke they, muſt needes bee the readie way to make them friends of their unrigh<g ref="char:EOLhyphen"/>teous
+<pb n="36" facs="tcp:19047:22"/> Mammon, as if God would ever endure the taking away from others to give unto him, who hath ſo ſtrictly com<g ref="char:EOLhyphen"/>manded us to give to others nothing but what is our owne. Indeede an almes of another mans goods, is even as accep<g ref="char:EOLhyphen"/>table to God, as the price of an harlot, or a dead dogge If ther<g ref="char:EOLunhyphen"/>fore thou haſt wronged anie man, if thou bee able, make him reſtitution; <hi>Non dimittitur peccatum, niſi reſtituatur ablatum:</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> Otherwiſe <hi>your corrupt riches, your moth-eaten garments, your cankered golde and ſilver,</hi> nay the verie <hi>ruſt of them ſhall</hi> one day <hi>witneſſe againſt you, Jam.</hi> 5. <note place="margin">Iam. 5. 2, 3.</note> 2, 3. <hi>If I have done any man</hi>
+               <pb n="37" facs="tcp:19047:22"/> 
+               <hi>wrong,</hi> ſaith the good Convert, <hi>I will reſtore him fourefold:</hi> but that is not all; <hi>See,</hi> ſaith Saint <hi>Auguſtine, how he runnes, how he ſpeedes to make him friends of his unrighteous Mammon: Feſtinans deſcendit, he comes downe quickly;</hi> 
+               <note place="margin">Verſe 5.</note> 
+               <hi>&amp; dimidia ſubſtantiarum mea<g ref="char:EOLhyphen"/>rum, and one halfe of my goods I give to the poore;</hi> it was good <hi>Zaccheus</hi> the Arch-Publican, in the 19. of this Goſpell, verſe <note place="margin">Verſe 8.</note> 8.</p>
+            <p>But what? Would you have mee give away my riches to make me friends? will the man of this world ſay: Surelie that is an ill exchange, and I like it not; I know well enough, that ſo long as I have riches, I ſhall
+<pb n="38" facs="tcp:19047:23"/> have friends, or, if I have not, the matter is not great; for ſo long as I keepe my riches by mee, they who would be mine enemies, ſhall bee able to doe me no hurt. Wiſe <hi>Salomon</hi> ſaith, That <hi>Riches gather many friends, when the poore is ſeparated from</hi> 
+               <note place="margin">Prov. 19. 4.</note> 
+               <hi>his neighbour, Prov.</hi> 19. 4. And againe, <hi>Riches are a ſtrong (it<g ref="char:EOLhyphen"/>ty to the owners of them, Prov.</hi> 18. 11. What neede I then goe <note place="margin">18. 11.</note> about to make mee better friends of my riches, who me<g ref="char:EOLhyphen"/>thinkes are my good friends al<g ref="char:EOLhyphen"/>readie?</p>
+            <p>May not a man ſafelie (thinke you) ſay unto this wiſe world<g ref="char:EOLhyphen"/>ling, as once <hi>Joab</hi> did unto <hi>Da<g ref="char:EOLhyphen"/>vid, Thou loveſt thine enemies,</hi>
+               <pb n="39" facs="tcp:19047:23"/> 
+               <hi>and hateſt thy friends?</hi> 2 <hi>Sam</hi> 19. <note place="margin">2 Sam. 19 6.</note> 6. Thy riches, thinke as thou wilt, they are thine enemies. <hi>I have ſeene,</hi> ſaith the Preacher, <hi>Eccleſ.</hi> 5. 12, <hi>Riches reſerved to</hi> 
+               <note place="margin">Eccleſ. 5. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>the owner thereof for his hurt:</hi> So reſerved, that they periſh by evill travaile; for hee getteth a ſonne, and in his hand is no<g ref="char:EOLhyphen"/>thing: As if hee ſhould have ſaid; I have obſerved a world<g ref="char:EOLhyphen"/>lie man, to wearie himſelfe and his thoughts, to riſe earlie, and goe to bed late, and eate the bread of care all his dayes, to ſcrape Riches together, and when all is done, leave them to a ſonne, that through exceſſe and riot, dies a beggar, and there's an end. Had it not beene
+<pb n="40" facs="tcp:19047:24"/> farre better for this man, to have made him friends of his riches, and with part of his ri<g ref="char:EOLhyphen"/>ches have purchaſed for him and his, the prayers of the poore, which would have fol<g ref="char:EOLhyphen"/>lowed him, to everlaſting ha<g ref="char:EOLhyphen"/>bitations?</p>
+            <p>For one word of inſtruction: If the Mammon of this world be ſo unrighteous, if Riches be ſo full of iniquitie, I beſeech you (Brethren) doe you your ſelves judge, whither theſe men are tranſported, who ad<g ref="char:EOLhyphen"/>venture their honours, their re<g ref="char:EOLhyphen"/>putations, their honeſties, their lives, nay their verie ſoules too, that they may be rich: <hi>Si poſ<g ref="char:EOLhyphen"/>ſunt rectè, ſi non, quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> modo</hi>
+               <pb n="41" facs="tcp:19047:24"/> 
+               <hi>rem:</hi> If they may be rich faire<g ref="char:EOLhyphen"/>lie, well and good; if not, they will doe, or ſuffer anie thing, ſwallow a bribe, cozen a wid<g ref="char:EOLhyphen"/>dow, defraud orphanes, drinke the verie blood of the labou<g ref="char:EOLhyphen"/>rers for their wine, and the teares of the oppreſſed for their drinke, deteine the hirelings wages; and, as the Prophets phraſe is, <hi>Sell the poore for ſhooes, and the needy for a peece of bread.</hi> Is not this, thinke you, farre from, <hi>Facite vobis amicos, Make you friends of your unrighteous Mammon?</hi>
+            </p>
+            <p>Iudge againe, I pray you, your ſelves, how they follow Chriſts ſweete counſell here in my text, who <hi>Ahab-</hi>like, are
+<pb n="42" facs="tcp:19047:25"/> ever ſicke of the next field, and have never elbow roome e<g ref="char:EOLhyphen"/>nough ſo long as anie poore <hi>Naboth</hi> dwelleth neere them; nothing they poſſeſſe is worth the having, if they have not all. But above all, thinke what ſhal become of thoſe men, who inſteede of releeving the poore, robbe the Spittle, taking from them what others have alrea<g ref="char:EOLhyphen"/>die given them. Of this ſort, are thoſe Executours, and Over<g ref="char:EOLhyphen"/>ſeers, who being put in truſt with the eſtates and portions of poore widdowes, and father<g ref="char:EOLhyphen"/>leſſe children, doe by ſome tricke in law, or craftie diſtin<g ref="char:EOLhyphen"/>ction of their owne, cozen and deceive them. Such againe are
+<pb n="43" facs="tcp:19047:25"/> they, who take away from the poore, what the law hath gi<g ref="char:EOLhyphen"/>ven <hi>in pios uſus,</hi> and mingle it with their owne; Doe not theſe, and ſuch as they, pur<g ref="char:EOLhyphen"/>chaſe to themſelves the feare<g ref="char:EOLhyphen"/>full curſes of the afflicted poore, inſteede of making them friends of the Mammon of i<g ref="char:EOLhyphen"/>niquity?</p>
+            <p>I beſeech you men of the world; you that leane ſo ſtrong<g ref="char:EOLhyphen"/>lie on your God Mammon; What is he in whom you truſt? Is he anie other, than (as <hi>Para<g ref="char:EOLhyphen"/>celſus</hi> ſaith of the Divell) a beggarly ſpirit? What can hee doe for you? Can he make you honeſt, wiſe, healthie? Can he make you live more merrilie,
+<pb n="44" facs="tcp:19047:26"/> feede more heartilie, ſleepe more quietlie? Can he prevent care, ſickneſſe, ſorrow, death, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paines of hell after death? Or rather doth he not bring, and cauſe all theſe? If hee could be friend you ſo, I ſhould not blame you much to fall downe and worſhip him; but if (as the truth is) hee ra<g ref="char:EOLhyphen"/>ther bring all then otherwiſe, then mee thinkes admirable is our Saviours counſell in my Text here, <hi>Facite vobis amicos, Make ye</hi> other <hi>friends,</hi> make ye friends of your riches of ini<g ref="char:EOLhyphen"/>quitie; Beſtow the ſuperflui<g ref="char:EOLhyphen"/>tie of your goods on the poore, <hi>Honour the Lord with your ſub<g ref="char:EOLhyphen"/>ſtance, Prov.</hi> 3. 9: <hi>And great ſhall</hi> 
+               <note place="margin">Prov. 3. 9.</note>
+               <pb n="45" facs="tcp:19047:26"/> 
+               <hi>be your reward in heaven, Matth.</hi> 
+               <note place="margin">Mat. 6. 6.</note> 6. 6.</p>
+            <p>That good Martyr Saint <hi>Lau<g ref="char:EOLhyphen"/>renie,</hi> being asked by <hi>Decius Caeſar,</hi> ſaith <hi>Lyra,</hi> what hee had <note place="margin">Lyra.</note> done with the great treaſure of the Church, which was left by <hi>Sixtus</hi> his Predeceſſour, made him this anſwere, That it was ſafe enough, for hee had ſent it to heaven above, by the hands of the poore on earth. And our owne <hi>Warrham,</hi> once Arch-biſhop of <hi>Canterbury,</hi> be<g ref="char:EOLhyphen"/>ing on his death-bed, ſent his ſteward to ſee what ſtore of coyne was remaining in his coffers; he returning brought him word, that there was ei<g ref="char:EOLhyphen"/>ther verie little, or none at all;
+<pb n="46" facs="tcp:19047:27"/> (for indeede the good man, be<g ref="char:EOLhyphen"/>ing a moſt charitable Prelate, had given all away before) the Biſhop tolde his ſervant, <hi>Ni<g ref="char:EOLhyphen"/>mirum ſic oportuit;</hi> When could I die better, than when I am ſo even with the world? Oh couldeſt thou doe ſo! Lay up thy golde, thy treaſures, thy garments there, neither could theeves ſteale them from thee, nor ruſt, nor vermine conſume them; And thus thou maiſt doe, if thou beſtow them on the poore, they will carrie them to heaven for thee, and there thou ſhalt be ſure one day to finde them againe. Had that fooliſh rich man, in the 12: of this Goſpell, found out this <note place="margin">Luke 12. 18.</note>
+               <pb n="47" facs="tcp:19047:27"/> way, hee would have had roome enough to beſtow his corne, had his croppe beene farre greater than it was; for of everie emptie bellie of his poore neighbour, hee might have made a new little Barne, wherein hee might have laid up part of his ſtore.</p>
+            <p>In one word, <hi>If thou wanteſt earthly riches,</hi> ſaith Saint <hi>Jerome, ſeeke not to get them by evill meanes; if God hath already bleſſed thee with them, ſend them before thee to heaven by thy good deedes.</hi> The Saints of God are, like <hi>Dor<g ref="char:EOLhyphen"/>cas,</hi> 
+               <note place="margin">Acts 9. 36.</note> 
+               <hi>Rich in good workes, and almes which they doe;</hi> not which they talke of, not which they intend to doe, not which they
+<pb n="48" facs="tcp:19047:28"/> leave to be done by others but which they doe themſelves, they be their owne Executors. Hee that gives nothing in his life time, becauſe hee meanes to leave all to good uſes at his death, is much like to him in the Poet, that threw his apples to the hogges becauſe he could not eate them himſelfe. I would not be miſtaken, I doe not, I dare not (ſpeciallie in ſuch an age as this) ſpeake againſt cha<g ref="char:EOLhyphen"/>ritable deedes, be they done in what kinde ſoever; but I preſſe this point the rather, to call to your remembrance, how ma<g ref="char:EOLhyphen"/>nie well intended great gifts thus given, have miſcarried, and come to nothing: See our
+<pb n="49" facs="tcp:19047:28"/> owne Annales, and you ſhall finde them onely recorded, and paſſed over with this colde Cloſe; <hi>It was an ample and a large gift, had it beene performed accordingly.</hi> But I goe on.</p>
+            <p>Saint <hi>Gregorie</hi> in an Homilie of his, (as if he would directlie croſſe that of holie <hi>Job: No<g ref="char:EOLhyphen"/>thing brought wee into this world, neither ſhall wee carrie anie thing out of it)</hi> falleth upon this medi<g ref="char:EOLhyphen"/>tation, That although wee brought nothing into the world, yet it is poſſible for us to carrie ſomething out of it. How ſo? Thus, ſaith he, <hi>If we hearken to the voice of the poore, whileſt we live, and faile not to re<g ref="char:EOLhyphen"/>lieve them when they aske, we car<g ref="char:EOLhyphen"/>rie</hi>
+               <pb n="50" facs="tcp:19047:29"/> 
+               <hi>ſo much of our wealth with us hence, as we gave away here. Lar<g ref="char:EOLhyphen"/>giendo ſervamus, quae ſervando a<g ref="char:EOLhyphen"/>mittimus:</hi> What we give away ſo, we keepe for our ſelves; and what with a cloſe hand wee keepe, that wee loſe for ever. And another of the Ancients tells us, (but I tremble to re<g ref="char:EOLhyphen"/>peate it) that the purple glutton in this Goſpell is in hell, <hi>Non quia abſtulerat aliena, ſed quia non donarat ſua,</hi> Not for taking anie thing from the poore, but becauſe hee relieved not their wants. He would not heare the crie of the poore beggar on earth, &amp; how ſhould he look to be heard himſelf being below? How could he that was merci<g ref="char:EOLhyphen"/>leſſe
+<pb n="51" facs="tcp:19047:29"/> to others, expect to receive mercie? or thinke that <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> or the Saints could be his friends in another world, who had never taken anie, the leaſt care, whileſt he was in this, to make him friends of his Mam<g ref="char:EOLhyphen"/>mon of iniquitie? To con<g ref="char:EOLhyphen"/>clude this point: Oh let not thoſe that <hi>drinke wine in bowles, and ſtretch themſelves on beds of y<g ref="char:EOLhyphen"/>vorie, forget the afflictions of poore Joſeph, Amos</hi> 6. 6. It is <note place="margin">Amos 6. 6.</note> yours that are rich, (and for my part I come not hither to denie it you) to <hi>eate the fat, and drinke the ſweete,</hi> but then you muſt remember alſo to <hi>ſend part to them, for whom nothing is pre<g ref="char:EOLhyphen"/>pared, Nehem.</hi> 8. 10. And this is <note place="margin">Nehem. 8. 10.</note>
+               <pb n="52" facs="tcp:19047:30"/> the verie next way, I know for you, in the midſt of your mirth to make you friends of your unrighteous Mammon. But the ſonnes of men, although they be manie times moſt un<g ref="char:EOLhyphen"/>reaſonable themſelves, yet they will alwayes expect to have a reaſon for what God requireth at their hands; and here in my Text ſo they ſhall. Take his counſell, and bee of courage, and doe it, and the third and laſt part of my Text will tell you <hi>Why.</hi>
+            </p>
+            <p>Becauſe a time ſhall come, <hi>when you</hi> your ſelves <hi>ſhall faile,</hi> and want, and theſe <hi>friends</hi> of yours, <hi>ſhall receive you into ever<g ref="char:EOLhyphen"/>laſting habitations.</hi> And there is
+<pb n="53" facs="tcp:19047:30"/> the <hi>Cui bono,</hi> the end and pur<g ref="char:EOLhyphen"/>poſe, for which all this is to be done; <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>t quum defecerîtis, That when you ſhall faile, They may re<g ref="char:EOLhyphen"/>ceive you into everlaſting habita<g ref="char:EOLhyphen"/>tions.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>When you ſhall faile;</hi> that is, ſaith <hi>Caie<g ref="char:EOLhyphen"/>tan, è preſenti vitâ, out of this preſent life, <g ref="char:V">Ʋ</g>t cùm defecerîtis, When you ſhal want,</hi> that is, when you ſhall want breath, in plaine Engliſh, when wee ſhall dye. As if our Saviour, by this verie forme of ſpeech would teach us, That our ſtudie and over<g ref="char:EOLhyphen"/>much care for the increaſe of thoſe earthlie treaſures here, is an evill diſeaſe under the Sun, indeede a verie conſumption of our ſelves, for even whileſt
+<pb n="54" facs="tcp:19047:31"/> we labour and vexe our ſelves, and our ſoules to gather them, we our ſelves conſume, want, faile, and die.</p>
+            <p>
+               <hi>Cùm defecerîtis, When you ſhall faile,</hi> when is that?</p>
+            <p>Brieflie, when <hi>the Sunne, the Moone, and the Starres ſhall be darkened,</hi> when <hi>the keepers of the houſe ſhall tremble, the ſtrong men bow themſelves, the grinders ceaſe, and they ſhall bee darkened that looke out of the windowes;</hi> as it is, <hi>Eccleſ.</hi> 12. 3, 4. That is, <note place="margin">Eccleſ. 12. 3, 4.</note> when all the powers and facul<g ref="char:EOLhyphen"/>ties of our ſoules and bodies, ſhall faile, and ceaſe; then, loe then, the remembrance of one deede of charitie which thou haſt done, ſhall doe thee more
+<pb n="55" facs="tcp:19047:31"/> good, than the poſſeſſion (if thou hadſt it) of both the <hi>In<g ref="char:EOLhyphen"/>dies.</hi> Then, and in that houre, it ſhall more glad thy ſoule, that thou canſt ſay with meeke <hi>Moſes, Whoſe Aſſe haue I taken?</hi> 
+               <note place="margin">Num. 16. 15.</note> 
+               <hi>Num</hi> 16. 15: or with righteous <hi>Samuel,</hi> Whoſe <hi>Oxe have I ta<g ref="char:EOLhyphen"/>ken?</hi> 
+               <note place="margin">1 Sam. 12. 3.</note> 1 <hi>Sam.</hi> 12. 3; than if thou couldeſt ſay, All the ſheepe and oxen upon a thouſand moun<g ref="char:EOLhyphen"/>taines were thine owne, by op<g ref="char:EOLhyphen"/>preſſion and wrong. Then, then, when thine eyes ſhall waxe dimme, thy feete (as the Text is) faile under thee, when thine owne children are pre<g ref="char:EOLhyphen"/>ſentlie to be fatherleſſe, and the wife of thy boſome a wid<g ref="char:EOLhyphen"/>dow, oh what an unſpeakable
+<pb n="56" facs="tcp:19047:32"/> comfort ſhall it be to thee, that thine owne conſcience ſhall then cheare up thy drooping ſoule, with the ſweete remem<g ref="char:EOLhyphen"/>brance of what thou haſt beene unto others! <hi>I have beene eyes to the blinde, and feete was I to the lame, I was a father to the poore, and I ever cauſed the wid<g ref="char:EOLhyphen"/>dowes heart to reioyce, Job</hi> 29. <note place="margin">Iob 29. 15</note> 15.</p>
+            <p>
+               <hi>Pericles,</hi> an Heathen, (as <hi>Plu<g ref="char:EOLhyphen"/>tarch</hi> hath it in his life) although hee knew not what ſhould be<g ref="char:EOLhyphen"/>come of his ſoule, when his bodie failed, yet hee could re<g ref="char:EOLhyphen"/>joyce on his death bed, for that he had never given any of the men of <hi>Athens,</hi> (for there he li<g ref="char:EOLhyphen"/>ved) any cauſe to goe from
+<pb n="57" facs="tcp:19047:32"/> him ſorrowfull. Could ſuch a conſideration as this, comfort a dying Heathen? and ſhall it not much more rejoyce a Chriſtian, that he can in his dying bed ſay truelie to his ſoule, I have done no man wrong, I have taken away no mans oxe, I have oppreſſed no man? I have laboured with my hands, I have eaten mine owne bread, I have now finiſhed my courſe, <hi>I am readie to be offered, and the time of my departure is at hand, I have fought a good fight, I have kept the faith; henceforth there is laid up for me a crowne of righteouſneſſe, which the Lord the righteous Judge ſhall give unto mee, and not to me onely, but unto</hi>
+               <pb n="58" facs="tcp:19047:33"/> 
+               <hi>them alſo who love his appearing,</hi> 2 <hi>Tim.</hi> 4 5, 6. <hi>Cupio diſſolve, I de<g ref="char:EOLhyphen"/>ſire</hi> 
+               <note place="margin">2 Tim. 4. 5, 6.</note> therefore <hi>to be diſsolved, and to be with Chriſt. Come Lord Je<g ref="char:EOLhyphen"/>ſus, come quickly.</hi> Beautie ſhall wither, knowledge decay, ſtrength faile; and therefore <hi>dum bodié, whil'ſt it is yet called to day,</hi> before you faile too, Re<g ref="char:EOLhyphen"/>member thy laſt end, <hi>&amp; non peccabis in aeternum, and thou ſhalt not doe amiſse for ever;</hi> Thou maiſt doe amiſſe againe and a<g ref="char:EOLhyphen"/>gaine, but not for ever; the end of ſuch a man is peace at the laſt A time there ſhall be when Riches, Beautie, Knowledge, Strength, yea your ſelves ſhall faile; and in that day, and that houre, ſhall the rich man ſay of
+<pb n="59" facs="tcp:19047:33"/> his golde, his ſilver, &amp; his ſtore, as <hi>Iob</hi> did of his friends, <hi>Miſera<g ref="char:EOLhyphen"/>ble Comforters are ye all;</hi> then ſhal the wiſeman ſay of his know<g ref="char:EOLhyphen"/>ledge, his Arts, his skill, as <hi>Iob</hi> did of his friends, <hi>Miſerable Com<g ref="char:EOLhyphen"/>forters are ye all;</hi> Then ſhall the Minion ſay of her Beautie, her cropping, her curling, and her painting, as <hi>Iob</hi> did of his friends <hi>Miſerable Comforters are ye all, Iob</hi> 16 2. Then ſhall the conſi<g ref="char:EOLhyphen"/>deration <note place="margin">Iob 16. 2.</note> of one houre ſpent in devotion be more worth than all the golde of <hi>Ophir So let me die the death of the righteous, and let my laſt end be like unto his.</hi>
+            </p>
+            <p>The worldling who had his hope here below, ſhall ſing Loath to depart, Then ſhall the
+<pb n="60" facs="tcp:19047:34"/> Saint be comforted, then ſhall he deſpiſe this thicke clay, and treade the Moone under his feete; then cries he in his heart, <hi>Woe is me that I am conſtrained to dwell in Meſek, and to inhabite in the Tents of Kedar. Cupio diſſol<g ref="char:EOLhyphen"/>vi, I deſire to be diſſolved, and to be with Chriſt, for that is beſt of all;</hi> and therefore, <hi>Come Lord Ieſus, come quickly. Cùm defecerîtis,</hi>
+            </p>
+            <p>
+               <hi>When you ſhall faile;</hi> If you faile thus, your failing is no faile; for although your legges faile under you, your tongues faile in your mouthes, your eye<g ref="char:EOLhyphen"/>ſight faile, your ſtrength faile, your friends faile, your ſelves faile, all faile you at once; yet all this is no faile, but a retreate,
+<pb n="61" facs="tcp:19047:34"/> that by ſuch going backward, you may gather ſtrength to <hi>gaine</hi> eternitie in heaven, where there ſhall be no more decay<g ref="char:EOLhyphen"/>ing, no more failing, no more diſeaſe, no more death.</p>
+            <p>To conclude this point, when we die, we faile al earthly things which have depended on us, And on the other ſide, all thoſe things faile us, in which we have truſted; we then part with all our goods, our wives, our children, nay with our very faith and hope too; onely our charitie, ſhe followes us ſtill, in death wee take our leave of all our friends, but onely our good works, and they will follow us: ſo ſaith the voice from heaven,
+<pb n="62" facs="tcp:19047:35"/> 
+               <hi>Rev.</hi> 14. 15, <hi>Bleſſed are the dead which die in the Lord, for they reſt</hi> 
+               <note place="margin">Rev. 14. 15</note> 
+               <hi>from their labours, and their works follow them:</hi> Or, as our Text is, they are like ſo manie Harbin<g ref="char:EOLhyphen"/>gers, they goe before to <hi>receive</hi> us <hi>into everlaſting habitations;</hi> and that is the laſt word of the laſt part of my Text. And of that together, for that I cannot now take it aſunder. <hi>They,</hi> there is the parties; <hi>Shall receive,</hi> there is the action; <hi>Into everlaſting ha<g ref="char:EOLhyphen"/>bitations,</hi> there is the place. <hi>They ſhal receive you, In aeterna taberna<g ref="char:EOLhyphen"/>cula, Into everlaſting habitations.</hi>
+            </p>
+            <q>They ſhall receive you.</q>
+            <p>
+               <hi>They?</hi> Which they? Your friends which you had before gotten, by your charitie, you
+<pb n="63" facs="tcp:19047:35"/> heard before who they were, the bleſſed Saints, the holie An<g ref="char:EOLhyphen"/>gels, they ſhall receive you, car<g ref="char:EOLhyphen"/>rie you into <hi>Abrahams</hi> boſome: The Poore, they ſhall receive you; poore friends God wot, yet ſuch as ſhall another day doe you rich favours; for they ſhall receive you. They: The Poore: Either <hi>Pauperes ſpiritu,</hi> ſaith <hi>Bona venture, The poore in ſpirit, for theirs is the Kingdome of</hi> 
+               <note place="margin">Mat. 5. 3.</note> 
+               <hi>God, Mat.</hi> 5. 3. Or, <hi>Pauperes in</hi> 
+               <note place="margin">Auguſt.</note> 
+               <hi>ſacculo,</hi> The poore who live in want here, their praiers ſhall receive thee. <hi>Orabit pauper pro<g ref="char:EOLunhyphen"/>te, The poore ſhall pray for thee, Eccleſiaſt.</hi> 29. But is that all? <note place="margin">Eccleſiaſt. 29.</note> That is but colde comfort; for alas! how ſhall he, who whileſt
+<pb n="64" facs="tcp:19047:36"/> hee lived here could not helpe himſelfe, and which is worſe, it may be, went to hell himſelfe after his death, be able to re<g ref="char:EOLhyphen"/>ceive mee into everlaſting ha<g ref="char:EOLhyphen"/>bitations? Why? he ſhall ſend up his praiers to heaven for thee; and although perhaps hee doe it not, or not as he ought, it matters not. <hi>Thine almes are ever had in remembrance in the ſight of God, Acts</hi> 10. 31. It is the ſweete meditation of the bleſ<g ref="char:EOLhyphen"/>ſed Pſalmiſt on this point; <hi>Pſal.</hi> 
+               <note place="margin">Pſal. 16. 2.</note> 16. 2: <hi>Tobathi bal gnaléka: Li<g ref="char:EOLhyphen"/>kedoſhim aſher baaretz. My goods, and my goodnes, O Lord, are no<g ref="char:EOLhyphen"/>thing unto thee,</hi> thou art in hea<g ref="char:EOLhyphen"/>ven, and they cannot reach up to thee; therefore they ſhall be
+<pb n="68" facs="tcp:19047:36"/> extended <hi>to the poore Saints which are on the earth;</hi> and why to them? It may be, thou wilt take it as done to thy ſelfe, ſo thou ſhalt receive us thy ſelfe, but according to all the kind<g ref="char:EOLhyphen"/>neſſe wee have ſhewed unto them. <hi>Chriſtus recipiet, Chriſt Jeſus,</hi> ſaith <hi>Haymo, ſhall receive us for that good which wee have done unto others.</hi> Such, if you marke it well, is the proporti<g ref="char:EOLhyphen"/>on of the laſt doome, when the Saints are received into glorie: <hi>Matth.</hi> 25, <hi>Come ye bleſſed</hi> 
+               <note place="margin">Mat. 25.</note> 
+               <hi>of my Father, inherite the King<g ref="char:EOLhyphen"/>dome prepared for you.</hi> Come, I ſay, I know you all: Thou ga<g ref="char:EOLhyphen"/>veſt me once in ſuch a place a cheerefull pennie, elſe had I
+<pb n="66" facs="tcp:19047:37"/> gone ſupperleſſe to bed, Come, receive a Crowne for it, now thou ſhalt ſup with the Lambe. At another time thou gaveſt mee a garment, elſe had I ſtar<g ref="char:EOLhyphen"/>ved for colde, Come, receive thou a wedding garment. Thou gaveſt me meate when I was hungrie, drinke when I was thirſtie, Come, thou ſhalt have the bread of life, and the water of life, of which whoſoe<g ref="char:EOLhyphen"/>ever eateth and drinketh ſhall hunger and thirſt no more. Lord, when ſaw we thee hun<g ref="char:EOLhyphen"/>grie, naked, or in want? I ſay unto you, <hi>In as much, as you did it to one of theſe little ones, you did it unto me: Come ye bleſſed, inhe<g ref="char:EOLhyphen"/>rite the Kingdome prepared for</hi> 
+               <note place="margin">Mat. 25.</note> 
+               <hi>you.</hi>
+            </p>
+            <pb n="67" facs="tcp:19047:37"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But if <hi>almes-giving,</hi> and our other deedes of charitie be able to reconcile us to God at firſt, and ſhall afterwards receive us into everlaſting habitations, then by our good workes may we obtaine heaven, and merit eternall life; and, if that be ſo, in vaine doe wee beleeve that Chriſts death and paſſion was all-ſufficient for us; or, as Saint <hi>Paul</hi> ſaith, That he <hi>died for our ſinnes, and roſe againe for our iuſti<g ref="char:EOLhyphen"/>fication.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> But in one word to wipe a<g ref="char:EOLhyphen"/>way this doubt, and to cleare the doctrine of our Mother the Church of <hi>England,</hi> in which we live, which in the Homilie of <hi>almes deedes</hi> teacheth us ex<g ref="char:EOLhyphen"/>preſlie
+<pb n="65" facs="tcp:19047:38"/> thus. That <hi>Our good works are not the originall cauſe of our acceptation before God, but conſe<g ref="char:EOLhyphen"/>quents, fruits and ſignes of our Ju<g ref="char:EOLhyphen"/>ſtification.</hi> Neither doe thoſe Fa<g ref="char:EOLhyphen"/>thers of <hi>Trent</hi> anie more, (for anie thing I could ever ſee) af<g ref="char:EOLhyphen"/>ter al their traverſing this point in their ſixth Seſſion, but pro<g ref="char:EOLhyphen"/>poſe the Exerciſe of good workes to the juſt, to thoſe who are juſtified before; which if our Church did not likewiſe, in vaine have I beene preach<g ref="char:EOLhyphen"/>ing unto you all this while, who at this preſent, meant to doe nothing elſe. For although wee like not the <hi>Rhemiſts</hi> do<g ref="char:EOLunhyphen"/>ctrine, who teach, That the kingdome of heaven is to bee
+<pb n="69" facs="tcp:19047:38" rendition="simple:additions"/> had for monie, (the very words of their note upon my Text) nor their Mother the Church of <hi>Rome,</hi> who putteth the ſame in practiſe, as it appeareth by that Catalogue not long ſince printed at <hi>Bolonia</hi> in <hi>Italian,</hi> wherein everie Eccleſiaſticall preferment and office, is valu<g ref="char:EOLhyphen"/>ed at ſo much to be purchaſed; (Oh new way to heaven!) yet we teach, that after our firſt ju<g ref="char:EOLhyphen"/>ſtification, which is by faith, <hi>(<g ref="char:V">Ʋ</g>ivit iuſtus ex fide)</hi> that good workes are prepared for us to walke in; they are, as the Anci<g ref="char:EOLhyphen"/>ents taught, <hi>Via regni,</hi> not <hi>cauſa regnan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i:</hi> we ſhew the fruits of that in our ſanctificatio<g ref="char:cmbAbbrStroke">̄</g>, grow<g ref="char:EOLhyphen"/>ing from ſtrength to ſtrength,
+<pb n="70" facs="tcp:19047:39"/> from one degree of grace unto another, untill we appeare per<g ref="char:EOLhyphen"/>fect before our God in <hi>Zion, Pſal.</hi> 84. 7. And ſo at laſt God <note place="margin">Pſal. 84. 7.</note> looking upon theſe fruites of our righteouſneſſe, being <hi>Tin<g ref="char:EOLhyphen"/>cta ſanguine Chriſti, dyed in Chriſts blood,</hi> as <hi>Bellarmines</hi> phraſe is, at laſt is pleaſed to grant them a recompence, and to crowne them with a reward of victo<g ref="char:EOLhyphen"/>rie. And thus in my Text, are they ſaid to receive thoſe that doe them into everlaſting ha<g ref="char:EOLhyphen"/>bitations, into the joyes of hea<g ref="char:EOLhyphen"/>ven above; and when they are there, no doubt, all of them are fulfilled with glorie, yet as one ſtarre differing from ano<g ref="char:EOLhyphen"/>ther; The twelve Apoſtles ſit<g ref="char:EOLhyphen"/>ting
+<pb n="71" facs="tcp:19047:39"/> upon twelve ſeates, <hi>Elias</hi> and <hi>Iohn Baptiſt</hi> ſhining as grea<g ref="char:EOLhyphen"/>ter lights; <hi>For in my Fathers Kingdome,</hi> ſaith our Saviour, <hi>are many dwelling places, Ioh.</hi> 14. 2. There ſhall bee <hi>paritas gaudii, diſparitas gloriae, parity of ioy, diſ<g ref="char:EOLhyphen"/>parity of glory,</hi> yet everie veſſell ſhall bee full according to the meaſure of its owne capacitie.</p>
+            <p>Laſtly, as they ſhall be habi<g ref="char:EOLhyphen"/>tations, not one, but manie, ſo, ſaith the text, they ſhall be ever<g ref="char:EOLhyphen"/>laſting alſo: <hi>For we know</hi> (ſaith the Apoſtle, 2 <hi>Cor.</hi> 5. 1.) <hi>that if</hi> 
+               <note place="margin">2 Cor. 5. 1</note> 
+               <hi>our earthly houſe of this Taberna<g ref="char:EOLhyphen"/>cle ſhall be deſtroyed, we have a building given of God, an houſe not made with hands,</hi> but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>everlaſting in the heavens.</hi>
+            </p>
+            <pb n="72" facs="tcp:19047:40"/>
+            <p>Vnwiſe men that we be, let us give over labouring for thoſe things which periſh, and wea rying our ſelves &amp; our thoughts to gaine thoſe flitting riches, which on a ſudden take the wings of the morning, and forſake us; and at laſt learne to build for eternitie. Let us no longer vexe our ſelves to com<g ref="char:EOLhyphen"/>paſſe tranſitorie pleaſures, and momentanie delights, which for the moſt part are gone fro<g ref="char:cmbAbbrStroke">̄</g> us, before wee can truely ſay they are come; and now at the laſt by our good deedes of cha<g ref="char:EOLhyphen"/>ritie, lay up for our ſelves true treaſures in heave<g ref="char:cmbAbbrStroke">̄</g> above, which can never be taken away from us, nor wee from them, ſeeing
+<pb n="73" facs="tcp:19047:40"/> they be everlaſting habitations.</p>
+            <p>Let us loſe all, that we may gaine theſe, let us ſell all that we may buy theſe: Let us never thinke our ſelves at home, but ever Pilgrimes and ſtrangers, untill we poſſeſſe theſe, theſe e<g ref="char:EOLhyphen"/>verlaſting habitations. In one word, let us make us friends of our unrighteous Ma<g ref="char:cmbAbbrStroke">̄</g>mon, that when we our ſelves ſhall faile, they may receive us into ever<g ref="char:EOLhyphen"/>laſting habitations, in which we ſhall dwell forever, and for ever ſing, <hi>Halleluiah: Glory, ho<g ref="char:EOLhyphen"/>nour and praiſe be unto God the Fa<g ref="char:EOLhyphen"/>ther, to the Lambe, that ſitteth upon the Throne, and to the holy Ghoſt, world with<g ref="char:EOLhyphen"/>out end.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
